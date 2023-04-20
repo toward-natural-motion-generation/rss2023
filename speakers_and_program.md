@@ -1,5 +1,5 @@
 ---
-# title: Speakers and Program
+title: Speakers and Program
 indexing: false
 sitemap: false
 ---
