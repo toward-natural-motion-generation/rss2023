@@ -1,5 +1,5 @@
 ---
-title: Toward Natural Motion Generation
+# title: Toward Natural Motion Generation
 feature_text: |
   ## Toward Natural Motion Generation
   Half-day Workshop @ RSS 2023, 14th July, Daegu, Korea.
