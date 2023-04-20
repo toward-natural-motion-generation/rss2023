@@ -94,7 +94,7 @@ lang: en-GB # Set the site language
 title: "Toward Natural Motion Generation" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "A webpage of workshop 'Toward Natural Motion Generation'"
-baseurl: "rss2023"
+baseurl: ""
 repo: "https://github.com/toward-natural-motion-generation/"
 email: "hyemin.ahn@unist.ac.kr"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
