@@ -74,7 +74,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/logos/logo.png" # Default image for sharing
   -
     scope:
       path: ""
@@ -128,7 +128,7 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-  
+
 # navigation_footer:
 # - title: Created by David Darnes
 #   url: https://darn.es
