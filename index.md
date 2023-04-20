@@ -7,8 +7,6 @@ feature_image: "https://picsum.photos/1300/400?image=501"
 excerpt: "A webpage for workshop 'Toward Natural Motion Generation'"
 ---
 
-### Introduction
-
 **“Natural motion is Good motion”** would be the idea that many researchers would agree with. However, compared to the vast and diverse studies to realize naturalness in agent or robot motion, the active discussion towards natural motion generation seems insufficient. Perhaps, researchers would give different answers to the question of what natural motion is. 
 
 Therefore, from this workshop, we would like to provide a forum for researchers who have worked or are interested in "natural motion generation" across various fields from industry and academia. 
