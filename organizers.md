@@ -6,7 +6,7 @@ sitemap: false
 * [Hyemin Ahn (UNIST, Korea)](https://hyeminahn.oopy.io)
 <table width="100%">
   <tr>
-    <td width="30%"> <img src="../assets/images/hyemin_ahn.jpg" alt= "" width="300"></td>
+    <td width="30%"> <img src="../assets/images/hyemin_ahn.jpeg" alt= "" width="300"></td>
     <td width="70%" style="vertical-align: left;"> 
 Hyemin Ahn(she/her) is currently an Assistant Professor of Artificial Intelligence Graduate School at Ulsan National Institute of Science and Technology (UNIST). Before joining UNIST, she was a postdoctoral researcher at Technical University of Munich in 2020, and at German Aerospace Center in 2021 (PI: Dongheui Lee). She received her Ph.D. degree in Electrical Computer Engineering at Seoul National University in Seoul, Korea (advisor: Songhwai Oh). Before that, she received her Bachelor's degree in Electrical Engineering and Computer Sciences at Seoul National University. Her research interest is in machine learning-based human-robot interaction, vision and language perception, and motion generation.       
   </td>
