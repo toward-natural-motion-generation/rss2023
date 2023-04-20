@@ -5,8 +5,7 @@ sitemap: false
 ---
 ### Invited Speakers
 
-
-#### alphabetical order on surname
+##### (Alphabetical order on surname)
 * Moritz Bächer (Disney Research, Switzerland)
 * Sungjoon Choi (Korea University, Korea)
 * Libin Liu (Peking University, China)
