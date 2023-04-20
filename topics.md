@@ -6,6 +6,7 @@ sitemap: false
 We consider various topics of natural motion generation as below, 
 
 but not limited to:
+
 - Task-oriented natural motion generation:
     - Natural motion for object grasping or manipulation.
     - Natural motion for locomotion.
