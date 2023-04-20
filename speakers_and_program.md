@@ -4,6 +4,7 @@ indexing: false
 sitemap: false
 ---
 ### Invited Speakers
+
 #### alphabetical order on surname
 * Moritz Bächer (Disney Research, Switzerland)
 * Sungjoon Choi (Korea University, Korea)
