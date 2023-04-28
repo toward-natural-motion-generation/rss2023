@@ -3,7 +3,7 @@ title: Call for Papers
 indexing: false
 sitemap: false
 ---
-### Important Dates
+### Important Dates (AoE Times)
 * Submissions open: May 5th, 2023
 * Submission deadline: June 9th, 2023 (11:59pm)
 * Decision notification: June 23th, 2023
