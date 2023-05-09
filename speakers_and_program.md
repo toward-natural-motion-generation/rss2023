@@ -9,6 +9,7 @@ sitemap: false
 * Moritz Bächer (Disney Research, Switzerland)
 * Sungjoon Choi (Korea University, Korea)
 * Libin Liu (Peking University, China)
+* Michiel van de Panne (University of British Columbia, Canada)
 * Daniele Pucci (Italiano di Technologia, Italy)
 * Eiichi Yoshida (Tokyo University of Science, Japan)
 
@@ -48,7 +49,7 @@ sitemap: false
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 16:30 ~ 17:00 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Panel Discussion </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 6 </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 17:00 ~ 17:10 </td>
