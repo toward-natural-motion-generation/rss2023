@@ -25,31 +25,31 @@ sitemap: false
   </tr> 
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 13:30 ~ 14:00 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 1 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 1 (Michiel van de Panne, University of British Columbia) </td>
   </tr> 
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 14:00 ~ 14:30 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 2 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 2 (Sungjoon Choi, Korea University) </td>
   </tr> 
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 14:30 ~ 15:00 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 3 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 3 (Eiichi Yoshida, Tokyo University of Science) </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 15:00 ~ 15:30 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Coffee Break </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Coffee Break and Poster Session </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 15:30 ~ 16:00 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 4 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 4 (Daniele Pucci, Italiano di Technologia) </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 16:00 ~ 16:30 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 5 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 5 (Moritz Bächer, Disney Research) </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 16:30 ~ 17:00 </td>
-    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 6 </td>
+    <td width="50%" style="text-align: center; vertical-align: left;"> Invited Talk 6 (Libin Liu, Peking University) </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center; vertical-align: left;"> 17:00 ~ 17:10 </td>
