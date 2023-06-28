@@ -5,8 +5,9 @@ sitemap: false
 ---
 ### Invited Speakers
 
-##### Alphabetical order on surname (Click name for Biography)
-&nbsp;
+##### Alphabetical order on surname (Click name for Biography)  
+
+
 <Details>
 <summary>► Moritz Bächer (Disney Research, Switzerland)</summary>
 <table width="100%">
@@ -66,7 +67,7 @@ Biography
   <tr>
     <td width="30%" style="text-align: center; vertical-align: left;"> 13:30 ~ 14:00 </td>
     <td width="70%" style="text-align: center; vertical-align: left;"> 
-    Invited Talk 1 (Michiel van de Panne) 
+    #Invited Talk 1 (Michiel van de Panne)
     </td>
   </tr> 
   <tr>
@@ -88,10 +89,7 @@ Biography
   <tr>
     <td width="30%" style="text-align: center; vertical-align: left;"> 16:00 ~ 16:30 </td>
     <td width="70%" style="text-align: center; vertical-align: left;">
-    <Details>
-    <summary>Retargeting Motions onto Robotic Characters, Moritz Bächer, Disney Research, Switzerland</summary>
-    Abstract: Legged robots or fixed-base robotic characters are built to perform highly dynamic motions. However, it remains challenging to retarget expressive motions onto these complex systems. In this talk, I will first discuss a versatile inverse kinematics to retarget artist-specified motion onto robotic systems with kinematic loops. I will then talk about a differentiable flexible multibody dynamics that enables us to retarget motions onto soft and lightweight robotic characters while suppressing vibrations. Finally, I will discuss a technique that permits the retargeting of motion capture data onto legged systems with a novel differentiable optimal control technique, accounting for differences in proportions and mass distribution of the source of input motion and the robot.
-    </Details>
+    Invited Talk 5 (Moritz Bächer)
     </td>
   </tr>
   <tr>
@@ -103,3 +101,6 @@ Biography
     <td width="50%" style="text-align: center; vertical-align: left;"> Closing </td>
   </tr>
 </table>
+
+### Abstract 
+#### [Invited Talk 1 (Michiel van de Panne)](#talk1) 
