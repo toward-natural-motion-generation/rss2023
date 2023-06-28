@@ -28,9 +28,7 @@ sitemap: false
   * 14:30 ~ 15:00: Invited Talk 3 (Eiichi Yoshida)
   * 15:00 ~ 15:30: Coffee Break
   * 15:30 ~ 16:00: Invited Talk 4 (Daniele Pucci)
-  * <Details><summary>16:00 ~ 16:30: "Retargeting Motions onto Robotic Characters", Moritz Bächer</summary> Abstract: Legged robots or fixed-base robotic characters are built to perform highly dynamic motions. However, it remains challenging to retarget expressive motions onto these complex systems. In this talk, I will first discuss a versatile inverse kinematics to retarget artist-specified motion onto robotic systems with kinematic loops. I will then talk about a differentiable flexible multibody dynamics that enables us to retarget motions onto soft and lightweight robotic characters while suppressing vibrations. Finally, I will discuss a technique that permits the retargeting of motion capture data onto legged systems with a novel differentiable optimal control technique, accounting for differences in proportions and mass distribution of the source of input motion and the robot.
-
-  </Details>
+  * <Details><summary>16:00 ~ 16:30: "Retargeting Motions onto Robotic Characters", Moritz Bächer</summary> Abstract: Legged robots or fixed-base robotic characters are built to perform highly dynamic motions. However, it remains challenging to retarget expressive motions onto these complex systems. In this talk, I will first discuss a versatile inverse kinematics to retarget artist-specified motion onto robotic systems with kinematic loops. I will then talk about a differentiable flexible multibody dynamics that enables us to retarget motions onto soft and lightweight robotic characters while suppressing vibrations. Finally, I will discuss a technique that permits the retargeting of motion capture data onto legged systems with a novel differentiable optimal control technique, accounting for differences in proportions and mass distribution of the source of input motion and the robot.</Details>
   * 16:30 ~ 17:00: Invited Talk 6 (Libin Liu)
   * 17:00 ~ 17:10: Closing
 
