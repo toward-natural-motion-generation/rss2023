@@ -5,13 +5,45 @@ sitemap: false
 ---
 ### Invited Speakers
 
-##### Alphabetical order on surname
-* Moritz Bächer (Disney Research, Switzerland)
-* Sungjoon Choi (Korea University, Korea)
-* Libin Liu (Peking University, China)
-* Michiel van de Panne (University of British Columbia, Canada)
-* Daniele Pucci (Italiano di Technologia, Italy)
-* Eiichi Yoshida (Tokyo University of Science, Japan)
+#### Alphabetical order on surname
+
+<Details>
+<summary>Moritz Bächer (Disney Research, Switzerland)</summary>
+<table width="100%">
+  <tr>
+    <td width="25%"> <img src="../assets/images/moritz_baecher.jpeg" alt= "" width="300" style="vertical-align: left;"></td>
+    <td width="5%"></td>
+    <td width="70%" style="vertical-align: left; font-size: 75%;"> 
+ Moritz Bächer is the Associate Lab Director of Disney Research at Walt Disney Imagineering, where he leads a strategic program focusing on the development of novel model- and learning-based tools for the design and control of believable robotic characters. His core expertise is the optimal design and control of both soft and rigid systems, using a combination of differentiable simulation and reinforcement learning. Prior to joining Disney, he received his Ph.D. from the Harvard School of Engineering and Applied Sciences and his master’s degree from ETH Zurich.
+  </td>
+  </tr>
+</table>
+</Details>
+
+<Details>
+<summary>Sungjoon Choi (Korea University, Korea)</summary>
+Biography
+</Details>
+
+<Details>
+<summary>Libin Liu (Peking University, China)</summary>
+Biography
+</Details>
+
+<Details>
+<summary>Michiel van de Panne (University of British Columbia, Canada)</summary>
+Biography
+</Details>
+
+<Details>
+<summary>Daniele Pucci (Italiano di Technologia, Italy)</summary>
+Biography
+</Details>
+
+<Details>
+<summary>Eiichi Yoshida (Tokyo University of Science, Japan)</summary>
+Biography
+</Details>
 
 ### Program
 <table width="100%">
