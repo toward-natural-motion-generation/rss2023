@@ -67,9 +67,8 @@ Biography
     <td width="30%" style="text-align: center; vertical-align: left;"> 13:30 ~ 14:00 </td>
     <td width="70%" style="text-align: center; vertical-align: left;"> 
 
-      [Invited Talk 1 (Michiel van de Panne)](#invited-talk-1-michiel-van-de-panne)
-
-    </td>
+[Invited Talk 1 (Michiel van de Panne)](#invited-talk-1-michiel-van-de-panne)
+  </td>
   </tr> 
   <tr>
     <td width="30%" style="text-align: center; vertical-align: left;"> 14:00 ~ 14:30 </td>
@@ -104,4 +103,4 @@ Biography
 </table>
 
 ### Abstract 
-#### Invited Talk 1 (Michiel van de Panne)
+##### Invited Talk 1 (Michiel van de Panne)
