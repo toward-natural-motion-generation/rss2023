@@ -6,8 +6,7 @@ sitemap: false
 ### Invited Speakers
 
 ##### Alphabetical order on surname (Click name for Biography)  
-  
-  
+<br/>
 <Details>
 <summary>► Moritz Bächer (Disney Research, Switzerland)</summary>
 <table width="100%">
@@ -67,7 +66,7 @@ Biography
   <tr>
     <td width="30%" style="text-align: center; vertical-align: left;"> 13:30 ~ 14:00 </td>
     <td width="70%" style="text-align: center; vertical-align: left;"> 
-    
+
       [Invited Talk 1 (Michiel van de Panne)](#invited-talk-1-michiel-van-de-panne)
 
     </td>
