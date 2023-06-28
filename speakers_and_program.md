@@ -6,7 +6,11 @@ sitemap: false
 ### Invited Speakers
 
 ##### Alphabetical order on surname (Click name for Biography)   
-<table><tr><td></td></tr></table>      
+
+
+<table><tr><td></td></tr></table>  
+
+
 <Details>
 <summary>► Moritz Bächer (Disney Research, Switzerland)</summary>
 <table width="100%">
