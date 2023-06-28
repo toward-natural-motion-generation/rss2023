@@ -68,6 +68,7 @@ Biography
     <td width="70%" style="text-align: center; vertical-align: left;"> 
 
 [Invited Talk 1 (Michiel van de Panne)](#invited-talk-1-michiel-van-de-panne)
+
   </td>
   </tr> 
   <tr>
