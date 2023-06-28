@@ -6,7 +6,7 @@ sitemap: false
 ### Invited Speakers
 
 ##### Alphabetical order on surname (Click name for Biography)
-
+&nbsp;
 <Details>
 <summary>► Moritz Bächer (Disney Research, Switzerland)</summary>
 <table width="100%">
@@ -24,7 +24,7 @@ sitemap: false
 <summary>► Sungjoon Choi (Korea University, Korea)</summary>
 <table width="100%">
   <tr>
-    <td width="25%"> <img src="../assets/images/sungjoon_choi.jpeg" alt= "" width="300" style="vertical-align: left;"></td>
+    <td width="25%"> <img src="../assets/images/sungjoon_choi.png" alt= "" width="300" style="vertical-align: left;"></td>
     <td width="5%"></td>
     <td width="70%" style="vertical-align: left; font-size: 75%;"> 
  Sungjoon Choi is presently an assistant professor at Korea University in the Department of Artificial Intelligence. He received Ph.D. in Electrical and Computer Engineering from Seoul National University (2018) and a B.S. degree in Electrical Engineering and Computer Science from Seoul National University (2012). Dr. Choi was a postdoc at Disney Research  Los Angeles, focussing on applying machine learning methods in robotics. Before joining Disney Research, he was a research scientist at Kakao Brain in Korea. His research interests include sample-efficient reinforcement learning and human-robot interaction, and received Best Conference Paper Finalist Award at the 2016 IEEE International Conference on Robotics and Automation (ICRA). 
@@ -87,7 +87,12 @@ Biography
   </tr>
   <tr>
     <td width="30%" style="text-align: center; vertical-align: left;"> 16:00 ~ 16:30 </td>
-    <td width="70%" style="text-align: center; vertical-align: left;"> Invited Talk 5 (Moritz Bächer) </td>
+    <td width="70%" style="text-align: center; vertical-align: left;">
+    <Details>
+    <summary>Retargeting Motions onto Robotic Characters, Moritz Bächer, Disney Research, Switzerland</summary>
+    Abstract: Legged robots or fixed-base robotic characters are built to perform highly dynamic motions. However, it remains challenging to retarget expressive motions onto these complex systems. In this talk, I will first discuss a versatile inverse kinematics to retarget artist-specified motion onto robotic systems with kinematic loops. I will then talk about a differentiable flexible multibody dynamics that enables us to retarget motions onto soft and lightweight robotic characters while suppressing vibrations. Finally, I will discuss a technique that permits the retargeting of motion capture data onto legged systems with a novel differentiable optimal control technique, accounting for differences in proportions and mass distribution of the source of input motion and the robot.
+    </Details>
+    </td>
   </tr>
   <tr>
     <td width="30%" style="text-align: center; vertical-align: left;"> 16:30 ~ 17:00 </td>
