@@ -5,8 +5,8 @@ sitemap: false
 ---
 ### Invited Speakers
 
-##### Alphabetical order on surname (Click name for Biography)  
-<br/>
+##### Alphabetical order on surname (Click name for Biography)   
+<table><tr><td></td></tr></table>      
 <Details>
 <summary>► Moritz Bächer (Disney Research, Switzerland)</summary>
 <table width="100%">
@@ -104,3 +104,13 @@ Biography
 
 ### Abstract 
 ##### Invited Talk 1 (Michiel van de Panne)
+
+##### Invited Talk 2 (Sungjoon Choi)
+
+##### Invited Talk 3 (Eiichi Yoshida)
+
+##### Invited Talk 4 (Daniele Pucci)
+
+##### Invited Talk 5 (Moritz Bächer)
+
+##### Invited Talk 6 (Libin Liu)
