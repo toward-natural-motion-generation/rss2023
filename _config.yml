@@ -120,10 +120,10 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
 - title: Home
   url: /
-- title: Topics
-  url: /topics
-- title: Speakers & Program
-  url: /speakers_and_program
+- title: Speakers
+  url: /speakers
+- title: Program
+  url: /program
 - title: Organizers
   url: /organizers
 # - title: Elements
